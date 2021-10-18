@@ -1,0 +1,28 @@
+{
+  "name": "o3bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagoScantamburlo/O3Bot.git"
+  },
+  "author": "Santiago Scantamburlo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagoScantamburlo/O3Bot/issues"
+  },
+  "homepage": "https://github.com/santiagoScantamburlo/O3Bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.7.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.20.2",
+    "discord.js": "^13.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1"
+  }
+}
